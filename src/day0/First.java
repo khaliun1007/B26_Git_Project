@@ -6,5 +6,8 @@ public class First {
         System.out.println("working.....");
 
         //checking comment section
+
+        System.out.println(3+6);
+        //updating and checking if changes work
     }
 }
